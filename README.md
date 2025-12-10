@@ -37,7 +37,7 @@ modelo_github/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPO>
+git clone <https://github.com/mmedina-macal/modelo-predictivo-ofertas-autos>
 cd modelo_github
 ```
 
@@ -217,7 +217,7 @@ Este proyecto es interno de Macal. Para cambios:
 
 ## 📞 Contacto
 
-Para dudas: Data Science Team - Macal
+Para dudas: Maximiliano Medina - Macal
 
 ---
 
