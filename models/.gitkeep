@@ -1,0 +1,2 @@
+# Este archivo asegura que el directorio models/ se incluya en Git
+# Los modelos .joblib no se suben (están en .gitignore)
